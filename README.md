@@ -1,4 +1,4 @@
-# Suppose data (attached file data.csv) comes from time series data of a stock price or index. 
+### Data (attached file data.csv) comes from time series data of a stock price or index. 
 ### Use the first 990 time series for estimation and the last 10 time series for prediction.
 
 (a) Draw the graph of the original data, the simple return graph and the log return
