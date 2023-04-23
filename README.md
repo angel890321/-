@@ -1,5 +1,5 @@
-### Data (attached file data.csv) comes from time series data of a stock price or index. 
-### Use the first 990 time series for estimation and the last 10 time series for prediction.
+## Data (attached file data.csv) comes from time series data of a stock price or index. 
+## Use the first 990 time series for estimation and the last 10 time series for prediction.
 簡報:https://www.canva.com/design/DAFf_9-u36Y/-GbUWUPgCFHidRPMx0JrQw/edit?utm_content=DAFf_9-u36Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 (a) Draw the graph of the original data, the simple return graph and the log return
