@@ -1,8 +1,9 @@
 ## 時間序列分析(課堂專題)
 ### Data (attached file data.csv) comes from time series data of a stock price or index. 
 ### Use the first 990 time series for estimation and the last 10 time series for prediction.
-簡報:https://www.canva.com/design/DAFf_9-u36Y/-GbUWUPgCFHidRPMx0JrQw/edit?utm_content=DAFf_9-u36Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+#### 簡報:https://www.canva.com/design/DAFf_9-u36Y/-GbUWUPgCFHidRPMx0JrQw/edit?utm_content=DAFf_9-u36Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+#### 分析流程:
 (a) Draw the graph of the original data, the simple return graph and the log return
 
 (b) Check whether the original data, simple return data, and log return data are
